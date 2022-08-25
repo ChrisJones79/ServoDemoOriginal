@@ -1,0 +1,37 @@
+main.o: main.c \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/p32xxxx.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/proc/p32mx460f512l.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/proc/ppic32mx.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/cp0defs.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/plib.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/adc10.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/int.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/sys/attribs.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/bmx.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/cmp.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/cvref.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/dma.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/i2c.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/incap.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/nvm.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/sys/kmem.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/outcompare.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/pcache.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/pmp.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/ports.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/power.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/reset.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/lock.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/rtcc.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/spi.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/system.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/osc.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/timer.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/uart.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/peripheral/wdt.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/stdint.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/machine/int_types.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/machine/int_mwgwtypes.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/machine/int_limits.h \
+  C:/Program\ Files/Microchip/MPLAB\ C32\ Suite/pic32-libs/include/machine/int_const.h \
+  stdtypes.h Cerebot32MX4.h
